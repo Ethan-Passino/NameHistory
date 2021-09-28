@@ -1,0 +1,11 @@
+main: me.TurtlesAreHot.NameHistory.Main
+name: NameHistory
+version: 1.0.0
+description: This plugin was created to check the namehistory of users.
+author: TurtlesAreHot
+api-version: 1.13
+commands:
+  nh:
+    description: Checks the namehistory of a user.
+    aliases:
+      - namehistory
