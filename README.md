@@ -1,6 +1,6 @@
 # 🕹️ NameHistory
 
-**⚠️ Note**: *This project no longer functions as intended due to Mojang's UI changes.* Previously, this tool retrieved a user's past Minecraft usernames directly. However, due to these changes, username history can only be viewed on third-party sites that store past username data.
+**⚠️ Note**: *This project no longer functions as intended due to Mojang's API changes.* Previously, this tool retrieved a user's past Minecraft usernames directly. However, due to these changes, username history can only be viewed on third-party sites that store past username data.
 
 ## 📖 Overview
 
